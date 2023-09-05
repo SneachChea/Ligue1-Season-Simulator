@@ -1,0 +1,422 @@
+,Sem.,Jour,Date,Heure,Domicile,xG,Score,xG.1,Extérieur,Affluence,Tribune,Arbitre,Rapport de match,Notes
+0,1,Ven,2019-08-09,20:45,Monaco,0.6,0–3,0.8,Lyon,10000,Stade Louis II.,Ruddy Buquet,Rapport de match,
+1,1,Sam,2019-08-10,17:30,Marseille,0.9,0–2,1.2,Reims,52887,Orange Vélodrome,Jérôme Brisard,Rapport de match,
+2,1,Sam,2019-08-10,20:00,Montpellier,2.9,0–1,1.2,Rennes,15212,Stade de la Mosson,Willy Delajod,Rapport de match,
+3,1,Sam,2019-08-10,20:00,Dijon,2.1,1–2,1.0,Saint-Étienne,14334,Stade Gaston Gérard,Thomas Léonard,Rapport de match,
+4,1,Sam,2019-08-10,20:00,Angers,1.6,3–1,1.0,Bordeaux,10749,Stade Raymond Kopa,Hakim Ben El Hadj Salem,Rapport de match,
+5,1,Sam,2019-08-10,20:00,Brest,2.2,1–1,1.5,Toulouse,14238,Stade Francis-Le Blé,Olivier Thual,Rapport de match,
+6,1,Sam,2019-08-10,20:00,Nice,1.8,2–1,0.8,Amiens,17719,Stade de Nice,Jérémie Pignard,Rapport de match,
+7,1,Dim,2019-08-11,15:00,Lille,1.3,2–1,0.6,Nantes,34494,Stade Pierre-Mauroy,Mikael Lesage,Rapport de match,
+8,1,Dim,2019-08-11,17:00,Strasbourg,1.7,1–1,0.3,Metz,25476,Stade de la Meinau,Antony Gautier,Rapport de match,
+9,1,Dim,2019-08-11,21:00,Paris S-G,3.5,3–0,0.3,Nîmes,47151,Parc des Princes,Clément Turpin,Rapport de match,
+10,,,,,,,,,,,,,,
+11,2,Ven,2019-08-16,20:45,Lyon,1.1,6–0,0.4,Angers,49871,Groupama Stadium,Benoît Millot,Rapport de match,
+12,2,Sam,2019-08-17,17:30,Nantes,0.5,0–0,1.2,Marseille,34832,Stade de la Beaujoire - Louis Fonteneau,Benoît Bastien,Rapport de match,
+13,2,Sam,2019-08-17,20:00,Bordeaux,1.2,1–1,0.8,Montpellier,30192,Stade Matmut-Atlantique,Franck Schneider,Rapport de match,
+14,2,Sam,2019-08-17,20:00,Nîmes,1.5,1–2,1.9,Nice,13243,Stade des Costières,François Letexier,Rapport de match,
+15,2,Sam,2019-08-17,20:00,Toulouse,1.5,1–0,1.3,Dijon,10583,Stadium Municipal,Ruddy Buquet,Rapport de match,
+16,2,Sam,2019-08-17,20:00,Metz,2.6,3–0,0.8,Monaco,19088,Stade Saint-Symphorien,Eric Wattellier,Rapport de match,
+17,2,Sam,2019-08-17,20:00,Amiens,1.0,1–0,0.3,Lille,12481,Stade Crédit Agricole la Licorne,Karim Abed,Rapport de match,
+18,2,Dim,2019-08-18,15:00,Saint-Étienne,2.3,1–1,0.5,Brest,28645,Stade Geoffroy-Guichard,Johan Hamel,Rapport de match,
+19,2,Dim,2019-08-18,17:00,Reims,0.5,0–0,0.4,Strasbourg,13714,Stade Auguste-Delaune II,Florent Batta,Rapport de match,
+20,2,Dim,2019-08-18,21:00,Rennes,1.2,2–1,1.0,Paris S-G,28596,Roazhon Park,Antony Gautier,Rapport de match,
+21,,,,,,,,,,,,,,
+22,3,Sam,2019-08-24,20:00,Amiens,0.4,1–2,2.4,Nantes,11393,Stade Crédit Agricole la Licorne,Jeremy Stinat,Rapport de match,
+23,3,Sam,2019-08-24,20:00,Dijon,0.4,0–2,0.6,Bordeaux,12471,Stade Gaston Gérard,François Letexier,Rapport de match,
+24,3,Sam,2019-08-24,20:00,Brest,0.5,1–0,1.0,Reims,13958,Stade Francis-Le Blé,Hakim Ben El Hadj Salem,Rapport de match,
+25,3,Sam,2019-08-24,20:00,Angers,1.9,3–0,0.2,Metz,9001,Stade Raymond Kopa,Stéphanie Frappart,Rapport de match,
+26,3,Dim,2019-08-25,15:00,Monaco,2.0,2–2,2.5,Nîmes,7438,Stade Louis II.,Amaury Delerue,Rapport de match,
+27,3,Dim,2019-08-25,17:00,Strasbourg,1.9,0–2,0.6,Rennes,24951,Stade de la Meinau,Ruddy Buquet,Rapport de match,
+28,3,Dim,2019-08-25,21:00,Paris S-G,4.1,4–0,0.4,Toulouse,47325,Parc des Princes,Jérôme Brisard,Rapport de match,
+29,3,Mar,2019-08-27,19:00,Montpellier,2.1,1–0,0.9,Lyon,19387,Stade de la Mosson,Mikael Lesage,Rapport de match,
+30,3,Mer,2019-08-28,19:00,Lille,2.4,3–0,0.8,Saint-Étienne,36138,Stade Pierre-Mauroy,Olivier Thual,Rapport de match,
+31,3,Mer,2019-08-28,21:00,Nice,1.7,1–2,1.7,Marseille,31825,Stade de Nice,Clément Turpin,Rapport de match,
+32,,,,,,,,,,,,,,
+33,4,Ven,2019-08-30,20:45,Metz,0.4,0–2,1.6,Paris S-G,20685,Stade Saint-Symphorien,Franck Schneider,Rapport de match,
+34,4,Sam,2019-08-31,17:30,Lyon,0.7,1–1,1.1,Bordeaux,52327,Groupama Stadium,Antony Gautier,Rapport de match,
+35,4,Sam,2019-08-31,20:00,Toulouse,1.3,2–0,0.4,Amiens,10184,Stadium Municipal,Florent Batta,Rapport de match,
+36,4,Sam,2019-08-31,20:00,Angers,1.4,2–0,0.7,Dijon,8988,Stade Raymond Kopa,Jérémie Pignard,Rapport de match,
+37,4,Sam,2019-08-31,20:00,Nîmes,2.4,3–0,0.7,Brest,12488,Stade des Costières,Thomas Léonard,Rapport de match,
+38,4,Sam,2019-08-31,20:00,Nantes,0.9,1–0,0.5,Montpellier,18980,Stade de la Beaujoire - Louis Fonteneau,Karim Abed,Rapport de match,
+39,4,Dim,2019-09-01,15:00,Rennes,0.8,1–2,1.8,Nice,26721,Roazhon Park,Johan Hamel,Rapport de match,
+40,4,Dim,2019-09-01,15:00,Reims,2.1,2–0,1.6,Lille,14477,Stade Auguste-Delaune II,Eric Wattellier,Rapport de match,
+41,4,Dim,2019-09-01,17:00,Strasbourg,1.5,2–2,2.9,Monaco,24556,Stade de la Meinau,Willy Delajod,Rapport de match,
+42,4,Dim,2019-09-01,21:00,Marseille,0.7,1–0,0.8,Saint-Étienne,44074,Orange Vélodrome,Benoît Millot,Rapport de match,
+43,,,,,,,,,,,,,,
+44,5,Ven,2019-09-13,19:00,Lille,1.4,2–1,0.7,Angers,32834,Stade Pierre-Mauroy,Ruddy Buquet,Rapport de match,
+45,5,Ven,2019-09-13,20:45,Amiens,0.5,2–2,2.0,Lyon,12577,Stade Crédit Agricole la Licorne,Benoît Bastien,Rapport de match,
+46,5,Sam,2019-09-14,17:30,Paris S-G,0.8,1–0,0.5,Strasbourg,47505,Parc des Princes,Amaury Delerue,Rapport de match,
+47,5,Sam,2019-09-14,20:00,Brest,0.5,0–0,0.4,Rennes,14937,Stade Francis-Le Blé,Clément Turpin,Rapport de match,
+48,5,Sam,2019-09-14,20:00,Dijon,1.3,0–0,0.4,Nîmes,11413,Stade Gaston Gérard,Stéphanie Frappart,Rapport de match,
+49,5,Sam,2019-09-14,20:00,Montpellier,1.8,2–1,1.0,Nice,12765,Stade de la Mosson,Olivier Thual,Rapport de match,
+50,5,Sam,2019-09-14,20:00,Bordeaux,1.4,2–0,1.2,Metz,14352,Stade Matmut-Atlantique,Mikael Lesage,Rapport de match,
+51,5,Dim,2019-09-15,15:00,Nantes,0.4,1–0,0.7,Reims,18897,Stade de la Beaujoire - Louis Fonteneau,Willy Delajod,Rapport de match,
+52,5,Dim,2019-09-15,17:00,Saint-Étienne,1.1,2–2,1.9,Toulouse,24240,Stade Geoffroy-Guichard,Jeremy Stinat,Rapport de match,
+53,5,Dim,2019-09-15,21:00,Monaco,2.5,3–4,1.6,Marseille,9147,Stade Louis II.,Antony Gautier,Rapport de match,
+54,,,,,,,,,,,,,,
+55,6,Ven,2019-09-20,20:45,Strasbourg,2.0,2–1,0.6,Nantes,24013,Stade de la Meinau,Florent Batta,Rapport de match,
+56,6,Sam,2019-09-21,17:30,Marseille,1.2,1–1,0.1,Montpellier,48007,Orange Vélodrome,Amaury Delerue,Rapport de match,
+57,6,Sam,2019-09-21,20:00,Nîmes,1.4,1–0,0.7,Toulouse,12258,Stade des Costières,Karim Abed,Rapport de match,
+58,6,Sam,2019-09-21,20:00,Nice,1.1,2–1,1.2,Dijon,16255,Stade de Nice,Willy Delajod,Rapport de match,
+59,6,Sam,2019-09-21,20:00,Reims,1.3,0–0,0.6,Monaco,14426,Stade Auguste-Delaune II,Olivier Thual,Rapport de match,
+60,6,Sam,2019-09-21,20:00,Bordeaux,1.7,2–2,1.3,Brest,15213,Stade Matmut-Atlantique,Benoît Millot,Rapport de match,
+61,6,Sam,2019-09-21,20:00,Metz,1.3,1–2,1.3,Amiens,15106,Stade Saint-Symphorien,Hakim Ben El Hadj Salem,Rapport de match,
+62,6,Dim,2019-09-22,15:00,Rennes,0.9,1–1,1.1,Lille,25772,Roazhon Park,Jérôme Brisard,Rapport de match,
+63,6,Dim,2019-09-22,17:00,Angers,2.0,4–1,0.8,Saint-Étienne,9831,Stade Raymond Kopa,Franck Schneider,Rapport de match,
+64,6,Dim,2019-09-22,21:00,Lyon,0.5,0–1,1.5,Paris S-G,54583,Groupama Stadium,Ruddy Buquet,Rapport de match,
+65,,,,,,,,,,,,,,
+66,7,Mar,2019-09-24,19:00,Dijon,1.4,0–0,0.9,Marseille,15061,Stade Gaston Gérard,Jeremy Stinat,Rapport de match,
+67,7,Mar,2019-09-24,21:00,Monaco,2.3,3–1,0.7,Nice,9358,Stade Louis II.,Mikael Lesage,Rapport de match,
+68,7,Mer,2019-09-25,19:00,Toulouse,0.3,0–2,1.6,Angers,10177,Stadium Municipal,Olivier Thual,Rapport de match,
+69,7,Mer,2019-09-25,19:00,Brest,0.7,2–2,1.2,Lyon,14472,Stade Francis-Le Blé,Amaury Delerue,Rapport de match,
+70,7,Mer,2019-09-25,19:00,Nantes,1.4,1–0,1.1,Rennes,26952,Stade de la Beaujoire - Louis Fonteneau,Antony Gautier,Rapport de match,
+71,7,Mer,2019-09-25,19:00,Amiens,1.5,1–3,0.7,Bordeaux,11367,Stade Crédit Agricole la Licorne,Willy Delajod,Rapport de match,
+72,7,Mer,2019-09-25,19:00,Saint-Étienne,1.3,0–1,0.8,Metz,19712,Stade Geoffroy-Guichard,Eric Wattellier,Rapport de match,
+73,7,Mer,2019-09-25,19:00,Montpellier,0.6,1–0,0.8,Nîmes,16445,Stade de la Mosson,Benoît Bastien,Rapport de match,
+74,7,Mer,2019-09-25,19:00,Lille,2.8,2–0,0.3,Strasbourg,30103,Stade Pierre-Mauroy,Johan Hamel,Rapport de match,
+75,7,Mer,2019-09-25,21:00,Paris S-G,0.6,0–2,1.0,Reims,47376,Parc des Princes,François Letexier,Rapport de match,
+76,,,,,,,,,,,,,,
+77,8,Sam,2019-09-28,13:30,Lyon,1.1,0–1,0.6,Nantes,46647,Groupama Stadium,Benoît Millot,Rapport de match,
+78,8,Sam,2019-09-28,17:30,Bordeaux,0.1,0–1,2.8,Paris S-G,39215,Stade Matmut-Atlantique,Jérôme Brisard,Rapport de match,
+79,8,Sam,2019-09-28,20:00,Reims,1.2,1–2,1.8,Dijon,11033,Stade Auguste-Delaune II,Jérémie Pignard,Rapport de match,
+80,8,Sam,2019-09-28,20:00,Metz,1.4,2–2,1.4,Toulouse,15054,Stade Saint-Symphorien,Florent Batta,Rapport de match,
+81,8,Sam,2019-09-28,20:00,Nice,1.2,1–1,1.4,Lille,18295,Stade de Nice,Clément Turpin,Rapport de match,
+82,8,Sam,2019-09-28,20:00,Monaco,3.6,4–1,0.5,Brest,4576,Stade Louis II.,Ruddy Buquet,Rapport de match,
+83,8,Sam,2019-09-28,20:00,Angers,1.4,1–1,1.2,Amiens,9331,Stade Raymond Kopa,Karim Abed,Rapport de match,
+84,8,Dim,2019-09-29,15:00,Strasbourg,0.4,1–0,1.4,Montpellier,25010,Stade de la Meinau,Hakim Ben El Hadj Salem,Rapport de match,
+85,8,Dim,2019-09-29,17:00,Nîmes,1.8,0–1,0.7,Saint-Étienne,13802,Stade des Costières,Thomas Léonard,Rapport de match,
+86,8,Dim,2019-09-29,21:00,Marseille,0.8,1–1,0.9,Rennes,44281,Orange Vélodrome,Franck Schneider,Rapport de match,
+87,,,,,,,,,,,,,,
+88,9,Ven,2019-10-04,20:45,Amiens,2.9,3–1,0.5,Marseille,12737,Stade Crédit Agricole la Licorne,Johan Hamel,Rapport de match,
+89,9,Sam,2019-10-05,17:30,Paris S-G,3.4,4–0,0.6,Angers,47700,Parc des Princes,Willy Delajod,Rapport de match,
+90,9,Sam,2019-10-05,20:00,Montpellier,3.1,3–1,1.3,Monaco,15532,Stade de la Mosson,François Letexier,Rapport de match,
+91,9,Sam,2019-10-05,20:00,Dijon,1.1,1–0,0.8,Strasbourg,12124,Stade Gaston Gérard,Olivier Thual,Rapport de match,
+92,9,Sam,2019-10-05,20:00,Nantes,1.3,1–0,0.3,Nice,15532,Stade de la Beaujoire - Louis Fonteneau,Amaury Delerue,Rapport de match,
+93,9,Sam,2019-10-05,20:00,Brest,0.7,2–0,0.5,Metz,12682,Stade Francis-Le Blé,Antony Gautier,Rapport de match,
+94,9,Sam,2019-10-05,20:00,Toulouse,1.1,1–3,0.8,Bordeaux,20084,Stadium Municipal,Benoît Bastien,Rapport de match,
+95,9,Dim,2019-10-06,15:00,Lille,2.6,2–2,1.8,Nîmes,31542,Stade Pierre-Mauroy,Mikael Lesage,Rapport de match,
+96,9,Dim,2019-10-06,17:00,Rennes,1.1,0–1,1.6,Reims,20950,Roazhon Park,Stéphanie Frappart,Rapport de match,
+97,9,Dim,2019-10-06,21:00,Saint-Étienne,0.9,1–0,0.6,Lyon,34071,Stade Geoffroy-Guichard,Clément Turpin,Rapport de match,
+98,,,,,,,,,,,,,,
+99,10,Ven,2019-10-18,20:45,Nice,0.8,1–4,3.5,Paris S-G,32705,Stade de Nice,François Letexier,Rapport de match,
+100,10,Sam,2019-10-19,17:30,Lyon,2.1,0–0,0.4,Dijon,48454,Groupama Stadium,Franck Schneider,Rapport de match,
+101,10,Sam,2019-10-19,20:00,Metz,0.8,1–0,0.6,Nantes,16533,Stade Saint-Symphorien,Jérémie Pignard,Rapport de match,
+102,10,Sam,2019-10-19,20:00,Toulouse,2.5,2–1,0.8,Lille,12277,Stadium Municipal,Stéphanie Frappart,Rapport de match,
+103,10,Sam,2019-10-19,20:00,Reims,0.9,1–0,0.9,Montpellier,12187,Stade Auguste-Delaune II,Florent Batta,Rapport de match,
+104,10,Sam,2019-10-19,20:00,Nîmes,0.5,1–1,1.2,Amiens,12189,Stade des Costières,Jeremy Stinat,Rapport de match,
+105,10,Sam,2019-10-19,20:00,Angers,1.7,0–1,0.3,Brest,10369,Stade Raymond Kopa,Eric Wattellier,Rapport de match,
+106,10,Dim,2019-10-20,15:00,Bordeaux,1.0,0–1,0.9,Saint-Étienne,25952,Stade Matmut-Atlantique,Ruddy Buquet,Rapport de match,
+107,10,Dim,2019-10-20,17:00,Monaco,1.4,3–2,1.5,Rennes,6763,Stade Louis II.,Jérôme Brisard,Rapport de match,
+108,10,Dim,2019-10-20,21:00,Marseille,1.6,2–0,0.5,Strasbourg,50203,Orange Vélodrome,Hakim Ben El Hadj Salem,Rapport de match,
+109,,,,,,,,,,,,,,
+110,11,Ven,2019-10-25,20:45,Nantes,1.7,0–1,0.9,Monaco,30656,Stade de la Beaujoire - Louis Fonteneau,Thomas Léonard,Rapport de match,
+111,11,Sam,2019-10-26,17:30,Lille,1.8,3–0,0.3,Bordeaux,35925,Stade Pierre-Mauroy,Willy Delajod,Rapport de match,
+112,11,Sam,2019-10-26,20:00,Lyon,1.9,2–0,0.8,Metz,48889,Groupama Stadium,Johan Hamel,Rapport de match,
+113,11,Sam,2019-10-26,20:00,Strasbourg,2.1,1–0,0.8,Nice,25007,Stade de la Meinau,Mikael Lesage,Rapport de match,
+114,11,Sam,2019-10-26,20:00,Reims,0.6,0–0,0.7,Nîmes,12329,Stade Auguste-Delaune II,Clément Turpin,Rapport de match,
+115,11,Sam,2019-10-26,20:00,Brest,1.9,2–0,1.2,Dijon,14232,Stade Francis-Le Blé,Jérémie Pignard,Rapport de match,
+116,11,Sam,2019-10-26,20:00,Montpellier,1.2,0–0,1.0,Angers,12678,Stade de la Mosson,Benoît Millot,Rapport de match,
+117,11,Dim,2019-10-27,15:00,Rennes,2.1,3–2,1.2,Toulouse,22918,Roazhon Park,Antony Gautier,Rapport de match,
+118,11,Dim,2019-10-27,17:00,Saint-Étienne,0.8,2–2,2.2,Amiens,18877,Stade Geoffroy-Guichard,Amaury Delerue,Rapport de match,
+119,11,Dim,2019-10-27,21:00,Paris S-G,3.0,4–0,0.6,Marseille,47926,Parc des Princes,Benoît Bastien,Rapport de match,
+120,,,,,,,,,,,,,,
+121,12,Ven,2019-11-01,20:45,Dijon,1.0,2–1,3.2,Paris S-G,14859,Stade Gaston Gérard,Ruddy Buquet,Rapport de match,
+122,12,Sam,2019-11-02,17:30,Marseille,0.7,2–1,0.4,Lille,53321,Orange Vélodrome,Hakim Ben El Hadj Salem,Rapport de match,
+123,12,Sam,2019-11-02,20:00,Toulouse,1.3,2–3,1.8,Lyon,16225,Stadium Municipal,Karim Abed,Rapport de match,
+124,12,Sam,2019-11-02,20:00,Amiens,1.4,1–0,0.9,Brest,12246,Stade Crédit Agricole la Licorne,Franck Schneider,Rapport de match,
+125,12,Sam,2019-11-02,20:00,Metz,1.9,2–2,1.0,Montpellier,14644,Stade Saint-Symphorien,Stéphanie Frappart,Rapport de match,
+126,12,Sam,2019-11-02,20:00,Angers,1.2,1–0,1.2,Strasbourg,9681,Stade Raymond Kopa,Florent Batta,Rapport de match,
+127,12,Dim,2019-11-03,15:00,Bordeaux,1.0,2–0,0.7,Nantes,19545,Stade Matmut-Atlantique,François Letexier,Rapport de match,
+128,12,Dim,2019-11-03,17:00,Nice,1.0,2–0,0.8,Reims,15468,Stade de Nice,Jeremy Stinat,Rapport de match,
+129,12,Dim,2019-11-03,21:00,Saint-Étienne,1.7,1–0,1.0,Monaco,15685,Stade Geoffroy-Guichard,Jérôme Brisard,Rapport de match,
+130,,,,,,,,,,,,,,
+131,13,Ven,2019-11-08,20:45,Nice,1.5,1–1,1.7,Bordeaux,16173,Stade de Nice,Johan Hamel,Rapport de match,
+132,13,Sam,2019-11-09,17:30,Brest,1.1,1–2,2.4,Paris S-G,15144,Stade Francis-Le Blé,Mikael Lesage,Rapport de match,
+133,13,Sam,2019-11-09,20:00,Monaco,2.0,1–0,1.2,Dijon,5223,Stade Louis II.,Eric Wattellier,Rapport de match,
+134,13,Sam,2019-11-09,20:00,Reims,0.5,0–0,1.0,Angers,10876,Stade Auguste-Delaune II,Hakim Ben El Hadj Salem,Rapport de match,
+135,13,Sam,2019-11-09,20:00,Lille,1.4,0–0,0.1,Metz,33425,Stade Pierre-Mauroy,Florent Batta,Rapport de match,
+136,13,Sam,2019-11-09,20:00,Strasbourg,3.5,4–1,0.5,Nîmes,24745,Stade de la Meinau,Ruddy Buquet,Rapport de match,
+137,13,Dim,2019-11-10,15:00,Rennes,3.4,3–1,0.8,Amiens,20677,Roazhon Park,Benoît Bastien,Rapport de match,
+138,13,Dim,2019-11-10,17:00,Nantes,0.9,2–3,0.9,Saint-Étienne,34191,Stade de la Beaujoire - Louis Fonteneau,Clément Turpin,Rapport de match,
+139,13,Dim,2019-11-10,17:00,Montpellier,1.0,3–0,0.3,Toulouse,12734,Stade de la Mosson,Thomas Léonard,Rapport de match,
+140,13,Dim,2019-11-10,21:00,Marseille,1.2,2–1,1.1,Lyon,65421,Orange Vélodrome,Antony Gautier,Rapport de match,
+141,,,,,,,,,,,,,,
+142,14,Ven,2019-11-22,20:45,Paris S-G,2.6,2–0,1.0,Lille,47476,Parc des Princes,Willy Delajod,Rapport de match,
+143,14,Sam,2019-11-23,17:30,Lyon,1.3,2–1,1.7,Nice,49401,Groupama Stadium,Amaury Delerue,Rapport de match,
+144,14,Sam,2019-11-23,20:00,Metz,1.1,1–1,1.8,Reims,14445,Stade Saint-Symphorien,Antony Gautier,Rapport de match,
+145,14,Sam,2019-11-23,20:00,Angers,1.1,1–0,0.6,Nîmes,8714,Stade Raymond Kopa,Thomas Léonard,Rapport de match,
+146,14,Sam,2019-11-23,20:00,Amiens,0.3,0–4,2.0,Strasbourg,10358,Stade Crédit Agricole la Licorne,Alain Bieri,Rapport de match,
+147,14,Sam,2019-11-23,20:00,Brest,1.0,1–1,1.5,Nantes,14232,Stade Francis-Le Blé,Ruddy Buquet,Rapport de match,
+148,14,Sam,2019-11-23,20:00,Dijon,1.3,2–1,0.9,Rennes,12084,Stade Gaston Gérard,Jérôme Brisard,Rapport de match,
+149,14,Dim,2019-11-24,15:00,Bordeaux,1.6,2–1,1.7,Monaco,34554,Stade Matmut-Atlantique,Benoît Millot,Rapport de match,
+150,14,Dim,2019-11-24,17:00,Saint-Étienne,0.5,0–0,1.0,Montpellier,24336,Stade Geoffroy-Guichard,Franck Schneider,Rapport de match,
+151,14,Dim,2019-11-24,21:00,Toulouse,0.9,0–2,1.6,Marseille,23002,Stadium Municipal,François Letexier,Rapport de match,
+152,,,,,,,,,,,,,,
+153,15,Ven,2019-11-29,20:45,Marseille,5.0,2–1,0.7,Brest,50014,Orange Vélodrome,Johan Hamel,Rapport de match,
+154,15,Sam,2019-11-30,17:30,Strasbourg,0.5,1–2,0.7,Lyon,25455,Stade de la Meinau,Mikael Lesage,Rapport de match,
+155,15,Sam,2019-11-30,20:00,Nice,1.2,3–1,0.6,Angers,15814,Stade de Nice,Antony Gautier,Rapport de match,
+156,15,Sam,2019-11-30,20:00,Montpellier,1.5,4–2,1.0,Amiens,11744,Stade de la Mosson,Jérémie Pignard,Rapport de match,
+157,15,Sam,2019-11-30,20:00,Lille,1.7,1–0,0.8,Dijon,40074,Stade Pierre-Mauroy,Jeremy Stinat,Rapport de match,
+158,15,Sam,2019-11-30,20:00,Nîmes,0.7,1–1,0.8,Metz,12180,Stade des Costières,Hakim Ben El Hadj Salem,Rapport de match,
+159,15,Sam,2019-11-30,20:00,Reims,1.4,1–1,0.3,Bordeaux,12949,Stade Auguste-Delaune II,Jérôme Brisard,Rapport de match,
+160,15,Dim,2019-12-01,15:00,Nantes,2.8,2–1,1.1,Toulouse,13751,Stade de la Beaujoire - Louis Fonteneau,Florent Batta,Rapport de match,
+161,15,Dim,2019-12-01,17:00,Rennes,1.4,2–1,0.5,Saint-Étienne,26738,Roazhon Park,Eric Wattellier,Rapport de match,
+162,,,,,,,,,,,,,,
+163,16,Mar,2019-12-03,19:00,Brest,2.0,5–0,0.8,Strasbourg,12437,Stade Francis-Le Blé,Jérôme Brisard,Rapport de match,
+164,16,Mar,2019-12-03,19:00,Angers,0.7,0–2,1.8,Marseille,12455,Stade Raymond Kopa,Franck Schneider,Rapport de match,
+165,16,Mar,2019-12-03,19:00,Bordeaux,2.1,6–0,0.3,Nîmes,12419,Stade Matmut-Atlantique,Clément Turpin,Rapport de match,
+166,16,Mar,2019-12-03,21:05,Lyon,0.8,0–1,0.9,Lille,42535,Groupama Stadium,Ruddy Buquet,Rapport de match,
+167,16,Mer,2019-12-04,19:00,Saint-Étienne,2.7,4–1,1.2,Nice,20138,Stade Geoffroy-Guichard,Thomas Léonard,Rapport de match,
+168,16,Mer,2019-12-04,19:00,Dijon,1.5,2–2,1.1,Montpellier,11926,Stade Gaston Gérard,François Letexier,Rapport de match,
+169,16,Mer,2019-12-04,19:00,Metz,0.9,0–1,1.1,Rennes,14214,Stade Saint-Symphorien,Karim Abed,Rapport de match,
+170,16,Mer,2019-12-04,19:00,Toulouse,1.8,1–2,4.3,Monaco,13030,Stadium Municipal,Willy Delajod,Rapport de match,
+171,16,Mer,2019-12-04,21:05,Paris S-G,1.9,2–0,0.6,Nantes,47485,Parc des Princes,Amaury Delerue,Rapport de match,
+172,,,,,,,,,,,,,,
+173,17,Ven,2019-12-06,19:00,Lille,2.6,1–0,0.3,Brest,32682,Stade Pierre-Mauroy,Eric Wattellier,Rapport de match,
+174,17,Ven,2019-12-06,20:45,Nîmes,0.2,0–4,3.2,Lyon,12801,Stade des Costières,Olivier Thual,Rapport de match,
+175,17,Sam,2019-12-07,17:30,Montpellier,0.4,1–3,1.2,Paris S-G,20197,Stade de la Mosson,Antony Gautier,Rapport de match,
+176,17,Sam,2019-12-07,20:00,Strasbourg,2.3,4–2,1.7,Toulouse,23634,Stade de la Meinau,Johan Hamel,Rapport de match,
+177,17,Sam,2019-12-07,20:00,Monaco,2.4,3–0,0.4,Amiens,4203,Stade Louis II.,Jeremy Stinat,Rapport de match,
+178,17,Sam,2019-12-07,20:00,Nice,1.6,4–1,1.7,Metz,14967,Stade de Nice,Jérémie Pignard,Rapport de match,
+179,17,Sam,2019-12-07,20:00,Rennes,1.2,2–1,0.8,Angers,25656,Roazhon Park,Amaury Delerue,Rapport de match,
+180,17,Dim,2019-12-08,15:00,Reims,1.2,3–1,0.6,Saint-Étienne,14512,Stade Auguste-Delaune II,Stéphanie Frappart,Rapport de match,
+181,17,Dim,2019-12-08,17:00,Nantes,1.2,1–0,0.5,Dijon,16001,Stade de la Beaujoire - Louis Fonteneau,Hakim Ben El Hadj Salem,Rapport de match,
+182,17,Dim,2019-12-08,21:00,Marseille,1.9,3–1,0.1,Bordeaux,52079,Orange Vélodrome,Mikael Lesage,Rapport de match,
+183,,,,,,,,,,,,,,
+184,18,Ven,2019-12-13,20:45,Lille,2.0,2–1,1.3,Montpellier,30170,Stade Pierre-Mauroy,Jérôme Brisard,Rapport de match,
+185,18,Sam,2019-12-14,17:30,Metz,1.1,1–1,1.8,Marseille,20586,Stade Saint-Symphorien,Willy Delajod,Rapport de match,
+186,18,Sam,2019-12-14,20:00,Angers,1.1,0–0,0.4,Monaco,9959,Stade Raymond Kopa,Hakim Ben El Hadj Salem,Rapport de match,
+187,18,Sam,2019-12-14,20:00,Brest,2.0,0–0,1.2,Nice,13042,Stade Francis-Le Blé,Franck Schneider,Rapport de match,
+188,18,Sam,2019-12-14,20:00,Toulouse,0.8,0–1,1.3,Reims,12577,Stadium Municipal,Clément Turpin,Rapport de match,
+189,18,Sam,2019-12-14,20:00,Nîmes,0.8,0–1,1.4,Nantes,12098,Stade des Costières,Karim Abed,Rapport de match,
+190,18,Sam,2019-12-14,20:00,Amiens,0.4,1–1,1.0,Dijon,10530,Stade Crédit Agricole la Licorne,Thomas Léonard,Rapport de match,
+191,18,Dim,2019-12-15,15:00,Bordeaux,1.4,0–1,0.6,Strasbourg,18710,Stade Matmut-Atlantique,Florent Batta,Rapport de match,
+192,18,Dim,2019-12-15,17:00,Lyon,0.6,0–1,2.1,Rennes,45010,Groupama Stadium,Benoît Bastien,Rapport de match,
+193,18,Dim,2019-12-15,21:00,Saint-Étienne,1.1,0–4,4.3,Paris S-G,36391,Stade Geoffroy-Guichard,Ruddy Buquet,Rapport de match,
+194,,,,,,,,,,,,,,
+195,19,Sam,2019-12-21,20:45,Montpellier,2.1,4–0,0.9,Brest,12975,Stade de la Mosson,Jeremy Stinat,Rapport de match,
+196,19,Sam,2019-12-21,20:45,Strasbourg,0.6,2–1,1.6,Saint-Étienne,25471,Stade de la Meinau,Olivier Thual,Rapport de match,
+197,19,Sam,2019-12-21,20:45,Monaco,3.4,5–1,0.8,Lille,5388,Stade Louis II.,Mikael Lesage,Rapport de match,
+198,19,Sam,2019-12-21,20:45,Dijon,1.2,2–2,1.1,Metz,12309,Stade Gaston Gérard,Johan Hamel,Rapport de match,
+199,19,Sam,2019-12-21,20:45,Nantes,0.4,1–2,1.3,Angers,29807,Stade de la Beaujoire - Louis Fonteneau,Jérémie Pignard,Rapport de match,
+200,19,Sam,2019-12-21,20:45,Paris S-G,4.6,4–1,0.6,Amiens,47693,Parc des Princes,Eric Wattellier,Rapport de match,
+201,19,Sam,2019-12-21,20:45,Reims,1.5,1–1,1.5,Lyon,17257,Stade Auguste-Delaune II,Amaury Delerue,Rapport de match,
+202,19,Sam,2019-12-21,20:45,Rennes,0.9,1–0,0.7,Bordeaux,26403,Roazhon Park,Thomas Léonard,Rapport de match,
+203,19,Sam,2019-12-21,20:45,Marseille,2.0,3–1,1.0,Nîmes,59043,Orange Vélodrome,François Letexier,Rapport de match,
+204,19,Sam,2019-12-21,20:45,Nice,1.6,3–0,0.5,Toulouse,17945,Stade de Nice,Stéphanie Frappart,Rapport de match,
+205,,,,,,,,,,,,,,
+206,20,Ven,2020-01-10,20:45,Rennes,0.6,0–1,0.7,Marseille,28896,Roazhon Park,Benoît Millot,Rapport de match,
+207,20,Sam,2020-01-11,17:30,Bordeaux,0.8,1–2,2.6,Lyon,28737,Stade Matmut-Atlantique,Clément Turpin,Rapport de match,
+208,20,Sam,2020-01-11,20:00,Angers,1.1,1–1,1.2,Nice,9105,Stade Raymond Kopa,Willy Delajod,Rapport de match,
+209,20,Sam,2020-01-11,20:00,Nîmes,1.7,2–0,0.3,Reims,11867,Stade des Costières,Olivier Thual,Rapport de match,
+210,20,Sam,2020-01-11,20:00,Amiens,0.9,1–2,0.7,Montpellier,10205,Stade Crédit Agricole la Licorne,Karim Abed,Rapport de match,
+211,20,Sam,2020-01-11,20:00,Metz,0.9,1–0,1.1,Strasbourg,18079,Stade Saint-Symphorien,Jérôme Brisard,Rapport de match,
+212,20,Sam,2020-01-11,20:00,Toulouse,0.9,2–5,1.8,Brest,13666,Stadium Municipal,Hakim Ben El Hadj Salem,Rapport de match,
+213,20,Dim,2020-01-12,15:00,Saint-Étienne,0.5,0–2,1.2,Nantes,,Stade Geoffroy-Guichard,Benoît Bastien,Rapport de match,
+214,20,Dim,2020-01-12,17:00,Dijon,1.2,1–0,0.6,Lille,12115,Stade Gaston Gérard,Franck Schneider,Rapport de match,
+215,20,Dim,2020-01-12,21:00,Paris S-G,2.5,3–3,2.3,Monaco,47580,Parc des Princes,Antony Gautier,Rapport de match,
+216,,,,,,,,,,,,,,
+217,12,Mer,2020-01-15,19:00,Nîmes,0.3,0–1,0.6,Rennes,12388,Stade des Costières,Willy Delajod,Rapport de match,
+218,,,,,,,,,,,,,,
+219,16,Mer,2020-01-15,19:00,Amiens,1.0,1–1,0.3,Reims,10712,Stade Crédit Agricole la Licorne,Johan Hamel,Rapport de match,
+220,,,,,,,,,,,,,,
+221,15,Mer,2020-01-15,21:00,Monaco,1.1,1–4,3.6,Paris S-G,11214,Stade Louis II.,François Letexier,Rapport de match,
+222,,,,,,,,,,,,,,
+223,21,Ven,2020-01-24,20:45,Nice,2.1,1–1,2.4,Rennes,15199,Stade de Nice,Hakim Ben El Hadj Salem,Rapport de match,
+224,21,Sam,2020-01-25,17:30,Marseille,0.4,0–0,0.2,Angers,55761,Orange Vélodrome,Johan Hamel,Rapport de match,
+225,21,Sam,2020-01-25,20:00,Montpellier,1.7,2–1,0.4,Dijon,11129,Stade de la Mosson,Jérôme Miguelgorry,Rapport de match,
+226,21,Sam,2020-01-25,20:00,Monaco,1.0,1–3,1.1,Strasbourg,4800,Stade Louis II.,Eric Wattellier,Rapport de match,
+227,21,Sam,2020-01-25,20:00,Reims,0.8,0–1,1.1,Metz,11818,Stade Auguste-Delaune II,Jérémie Pignard,Rapport de match,
+228,21,Sam,2020-01-25,20:00,Saint-Étienne,2.0,2–1,0.9,Nîmes,23927,Stade Geoffroy-Guichard,Jeremy Stinat,Rapport de match,
+229,21,Sam,2020-01-25,20:00,Brest,0.8,2–1,1.1,Amiens,12866,Stade Francis-Le Blé,Thomas Léonard,Rapport de match,
+230,21,Dim,2020-01-26,15:00,Lyon,0.8,3–0,0.4,Toulouse,42582,Groupama Stadium,Antony Gautier,Rapport de match,
+231,21,Dim,2020-01-26,17:00,Nantes,0.2,0–1,0.7,Bordeaux,29839,Stade de la Beaujoire - Louis Fonteneau,Karim Abed,Rapport de match,
+232,21,Dim,2020-01-26,21:00,Lille,0.5,0–2,2.0,Paris S-G,49132,Stade Pierre-Mauroy,Amaury Delerue,Rapport de match,
+233,,,,,,,,,,,,,,
+234,22,Ven,2020-01-31,20:45,Rennes,2.3,3–2,0.9,Nantes,27836,Roazhon Park,Benoît Millot,Rapport de match,
+235,22,Sam,2020-02-01,17:30,Paris S-G,2.9,5–0,0.2,Montpellier,47701,Parc des Princes,Jérôme Brisard,Rapport de match,
+236,22,Sam,2020-02-01,20:00,Angers,1.3,1–4,1.4,Reims,8467,Stade Raymond Kopa,Amaury Delerue,Rapport de match,
+237,22,Sam,2020-02-01,20:00,Strasbourg,1.3,1–2,1.5,Lille,25139,Stade de la Meinau,Stéphanie Frappart,Rapport de match,
+238,22,Sam,2020-02-01,20:00,Nîmes,1.9,3–1,0.9,Monaco,12580,Stade des Costières,Mikael Lesage,Rapport de match,
+239,22,Sam,2020-02-01,20:00,Amiens,0.9,0–0,1.0,Toulouse,10992,Stade Crédit Agricole la Licorne,François Letexier,Rapport de match,
+240,22,Sam,2020-02-01,20:00,Dijon,1.5,3–0,1.4,Brest,11212,Stade Gaston Gérard,Olivier Thual,Rapport de match,
+241,22,Dim,2020-02-02,15:00,Nice,1.5,2–1,1.7,Lyon,23553,Stade de Nice,Benoît Bastien,Rapport de match,
+242,22,Dim,2020-02-02,17:00,Metz,0.9,3–1,2.4,Saint-Étienne,15636,Stade Saint-Symphorien,Antony Gautier,Rapport de match,
+243,22,Dim,2020-02-02,21:00,Bordeaux,1.3,0–0,0.6,Marseille,36196,Stade Matmut-Atlantique,Ruddy Buquet,Rapport de match,
+244,,,,,,,,,,,,,,
+245,23,Mar,2020-02-04,19:00,Monaco,0.3,1–0,1.2,Angers,3585,Stade Louis II.,Jeremy Stinat,Rapport de match,
+246,23,Mar,2020-02-04,19:00,Lille,0.8,1–0,0.5,Rennes,35030,Stade Pierre-Mauroy,Johan Hamel,Rapport de match,
+247,23,Mar,2020-02-04,21:05,Nantes,2.7,1–2,3.6,Paris S-G,34307,Stade de la Beaujoire - Louis Fonteneau,Franck Schneider,Rapport de match,
+248,23,Mer,2020-02-05,19:00,Brest,2.1,1–1,1.1,Bordeaux,13034,Stade Francis-Le Blé,Willy Delajod,Rapport de match,
+249,23,Mer,2020-02-05,19:00,Lyon,0.5,0–0,0.3,Amiens,36670,Groupama Stadium,Jérôme Miguelgorry,Rapport de match,
+250,23,Mer,2020-02-05,19:00,Montpellier,0.5,1–1,1.7,Metz,10786,Stade de la Mosson,Hakim Ben El Hadj Salem,Rapport de match,
+251,23,Mer,2020-02-05,19:00,Reims,1.6,1–1,0.8,Nice,11384,Stade Auguste-Delaune II,Eric Wattellier,Rapport de match,
+252,23,Mer,2020-02-05,19:00,Nîmes,1.4,2–0,0.6,Dijon,11705,Stade des Costières,Florent Batta,Rapport de match,
+253,23,Mer,2020-02-05,19:00,Toulouse,0.8,0–1,1.4,Strasbourg,16596,Stadium Municipal,Karim Abed,Rapport de match,
+254,23,Mer,2020-02-05,21:00,Saint-Étienne,0.6,0–2,0.5,Marseille,29074,Stade Geoffroy-Guichard,Jérôme Brisard,Rapport de match,
+255,,,,,,,,,,,,,,
+256,24,Ven,2020-02-07,20:45,Angers,0.6,0–2,1.6,Lille,9145,Stade Raymond Kopa,Benoît Bastien,Rapport de match,
+257,24,Sam,2020-02-08,17:30,Marseille,0.8,1–0,1.7,Toulouse,53995,Orange Vélodrome,Stéphanie Frappart,Rapport de match,
+258,24,Sam,2020-02-08,20:00,Nice,0.7,1–3,1.3,Nîmes,15603,Stade de Nice,Antony Gautier,Rapport de match,
+259,24,Sam,2020-02-08,20:00,Metz,0.7,1–2,2.3,Bordeaux,15054,Stade Saint-Symphorien,François Letexier,Rapport de match,
+260,24,Sam,2020-02-08,20:00,Dijon,1.2,3–3,0.6,Nantes,11780,Stade Gaston Gérard,Jérémie Pignard,Rapport de match,
+261,24,Sam,2020-02-08,20:00,Amiens,0.4,1–2,1.3,Monaco,11683,Stade Crédit Agricole la Licorne,Olivier Thual,Rapport de match,
+262,24,Sam,2020-02-08,20:00,Rennes,1.0,0–0,0.5,Brest,28436,Roazhon Park,Ruddy Buquet,Rapport de match,
+263,24,Dim,2020-02-09,15:00,Montpellier,0.7,1–0,1.5,Saint-Étienne,14669,Stade de la Mosson,Amaury Delerue,Rapport de match,
+264,24,Dim,2020-02-09,17:00,Strasbourg,2.8,3–0,0.3,Reims,25241,Stade de la Meinau,Thomas Léonard,Rapport de match,
+265,24,Dim,2020-02-09,21:00,Paris S-G,1.7,4–2,1.0,Lyon,47000,Parc des Princes,Clément Turpin,Rapport de match,
+266,,,,,,,,,,,,,,
+267,25,Ven,2020-02-14,20:45,Monaco,1.9,1–0,1.0,Montpellier,4384,Stade Louis II.,Ruddy Buquet,Rapport de match,
+268,25,Sam,2020-02-15,17:30,Amiens,1.3,4–4,3.2,Paris S-G,12964,Stade Crédit Agricole la Licorne,Hakim Ben El Hadj Salem,Rapport de match,
+269,25,Sam,2020-02-15,20:00,Bordeaux,1.4,2–2,0.9,Dijon,13701,Stade Matmut-Atlantique,Mikael Lesage,Rapport de match,
+270,25,Sam,2020-02-15,20:00,Toulouse,2.3,0–2,1.4,Nice,12903,Stadium Municipal,Jérôme Miguelgorry,Rapport de match,
+271,25,Sam,2020-02-15,20:00,Nantes,1.4,0–0,0.4,Metz,20444,Stade de la Beaujoire - Louis Fonteneau,Jeremy Stinat,Rapport de match,
+272,25,Sam,2020-02-15,20:00,Nîmes,1.2,1–0,0.5,Angers,12417,Stade des Costières,Karim Abed,Rapport de match,
+273,25,Dim,2020-02-16,15:00,Lyon,1.0,1–1,1.4,Strasbourg,45141,Groupama Stadium,Johan Hamel,Rapport de match,
+274,25,Dim,2020-02-16,17:00,Brest,2.0,3–2,1.7,Saint-Étienne,13399,Stade Francis-Le Blé,Eric Wattellier,Rapport de match,
+275,25,Dim,2020-02-16,17:00,Reims,1.3,1–0,0.2,Rennes,13026,Stade Auguste-Delaune II,Florent Batta,Rapport de match,
+276,25,Dim,2020-02-16,21:00,Lille,1.3,1–2,1.6,Marseille,47314,Stade Pierre-Mauroy,Franck Schneider,Rapport de match,
+277,,,,,,,,,,,,,,
+278,26,Ven,2020-02-21,19:00,Nice,1.8,2–2,0.8,Brest,15856,Stade de Nice,Jérémie Pignard,Rapport de match,
+279,26,Ven,2020-02-21,20:45,Metz,0.3,0–2,1.9,Lyon,18247,Stade Saint-Symphorien,Eric Wattellier,Rapport de match,
+280,26,Sam,2020-02-22,17:30,Marseille,0.9,1–3,0.7,Nantes,60430,Orange Vélodrome,Jérôme Miguelgorry,Rapport de match,
+281,26,Sam,2020-02-22,20:00,Lille,2.3,3–0,0.4,Toulouse,37034,Stade Pierre-Mauroy,Thomas Léonard,Rapport de match,
+282,26,Sam,2020-02-22,20:00,Dijon,1.9,1–1,2.1,Monaco,13657,Stade Gaston Gérard,François Letexier,Rapport de match,
+283,26,Sam,2020-02-22,20:00,Strasbourg,0.8,0–0,0.1,Amiens,26109,Stade de la Meinau,Amaury Delerue,Rapport de match,
+284,26,Sam,2020-02-22,20:00,Angers,1.1,1–0,0.8,Montpellier,9453,Stade Raymond Kopa,Antony Gautier,Rapport de match,
+285,26,Dim,2020-02-23,15:00,Saint-Étienne,0.6,1–1,1.2,Reims,24868,Stade Geoffroy-Guichard,Benoît Bastien,Rapport de match,
+286,26,Dim,2020-02-23,17:00,Rennes,2.5,2–1,0.4,Nîmes,28084,Roazhon Park,Stéphanie Frappart,Rapport de match,
+287,26,Dim,2020-02-23,21:00,Paris S-G,5.1,4–3,1.5,Bordeaux,47771,Parc des Princes,Willy Delajod,Rapport de match,
+288,,,,,,,,,,,,,,
+289,27,Ven,2020-02-28,20:45,Nîmes,1.8,2–3,1.9,Marseille,13755,Stade des Costières,Clément Turpin,Rapport de match,
+290,27,Sam,2020-02-29,17:30,Paris S-G,3.6,4–0,0.4,Dijon,47542,Parc des Princes,Karim Abed,Rapport de match,
+291,27,Sam,2020-02-29,20:00,Brest,1.2,0–1,0.3,Angers,13313,Stade Francis-Le Blé,Florent Batta,Rapport de match,
+292,27,Sam,2020-02-29,20:00,Monaco,2.1,1–1,1.2,Reims,4237,Stade Louis II.,Hakim Ben El Hadj Salem,Rapport de match,
+293,27,Sam,2020-02-29,20:00,Montpellier,3.5,3–0,0.9,Strasbourg,11799,Stade de la Mosson,Mikael Lesage,Rapport de match,
+294,27,Sam,2020-02-29,20:00,Amiens,1.3,0–1,0.8,Metz,12375,Stade Crédit Agricole la Licorne,Johan Hamel,Rapport de match,
+295,27,Sam,2020-02-29,20:00,Toulouse,0.9,0–2,1.2,Rennes,13301,Stadium Municipal,Jeremy Stinat,Rapport de match,
+296,27,Dim,2020-03-01,15:00,Nantes,0.4,0–1,2.2,Lille,20704,Stade de la Beaujoire - Louis Fonteneau,Willy Delajod,Rapport de match,
+297,27,Dim,2020-03-01,17:00,Bordeaux,1.8,1–1,0.5,Nice,15799,Stade Matmut-Atlantique,Benoît Millot,Rapport de match,
+298,27,Dim,2020-03-01,21:00,Lyon,2.9,2–0,0.4,Saint-Étienne,52772,Groupama Stadium,Franck Schneider,Rapport de match,
+299,,,,,,,,,,,,,,
+300,28,Ven,2020-03-06,21:00,Marseille,1.1,2–2,2.1,Amiens,49748,Orange Vélodrome,François Letexier,Rapport de match,
+301,28,Sam,2020-03-07,20:00,Nice,1.7,2–1,1.4,Monaco,21001,Stade de Nice,Amaury Delerue,Rapport de match,
+302,28,Sam,2020-03-07,20:00,Angers,0.8,2–0,1.4,Nantes,12132,Stade Raymond Kopa,Stéphanie Frappart,Rapport de match,
+303,28,Sam,2020-03-07,20:00,Dijon,1.0,2–1,1.0,Toulouse,12549,Stade Gaston Gérard,Jérôme Brisard,Rapport de match,
+304,28,Sam,2020-03-07,20:00,Metz,1.2,2–1,1.3,Nîmes,14797,Stade Saint-Symphorien,Ruddy Buquet,Rapport de match,
+305,28,Sam,2020-03-07,20:00,Reims,1.7,1–0,1.3,Brest,11062,Stade Auguste-Delaune II,Karim Abed,Rapport de match,
+306,28,Dim,2020-03-08,15:00,Saint-Étienne,0.9,1–1,0.8,Bordeaux,24912,Stade Geoffroy-Guichard,Thomas Léonard,Rapport de match,
+307,28,Dim,2020-03-08,17:00,Rennes,3.1,5–0,1.0,Montpellier,24818,Roazhon Park,Jérémie Pignard,Rapport de match,
+308,28,Dim,2020-03-08,21:00,Lille,1.1,1–0,1.3,Lyon,40164,Stade Pierre-Mauroy,Benoît Bastien,Rapport de match,
+309,,,,,,,,,,,,,,
+310,29,Ven,2020-03-13,20:45,Lyon,,,,Reims,,Groupama Stadium,,Rapport de match,Match annulé
+311,29,Sam,2020-03-14,17:30,Montpellier,,,,Marseille,,Stade de la Mosson,,Rapport de match,Match annulé
+312,29,Sam,2020-03-14,20:00,Nantes,,,,Nîmes,,Stade de la Beaujoire - Louis Fonteneau,,Rapport de match,Match annulé
+313,29,Sam,2020-03-14,20:00,Strasbourg,,,,Dijon,,Stade de la Meinau,,Rapport de match,Match annulé
+314,29,Sam,2020-03-14,20:00,Toulouse,,,,Metz,,Stadium Municipal,,Rapport de match,Match annulé
+315,29,Sam,2020-03-14,20:00,Brest,,,,Lille,,Stade Francis-Le Blé,,Rapport de match,Match annulé
+316,29,Sam,2020-03-14,20:00,Amiens,,,,Angers,,Stade Crédit Agricole la Licorne,,Rapport de match,Match annulé
+317,29,Dim,2020-03-15,15:00,Bordeaux,,,,Rennes,,Stade Matmut-Atlantique,,Rapport de match,Match annulé
+318,29,Dim,2020-03-15,17:00,Monaco,,,,Saint-Étienne,,Stade Louis II.,,Rapport de match,Match annulé
+319,29,Dim,2020-03-15,21:00,Paris S-G,,,,Nice,,Parc des Princes,,Rapport de match,Match annulé
+320,,,,,,,,,,,,,,
+321,28,Mer,2020-03-18,,Strasbourg,,,,Paris S-G,,Stade de la Meinau,,Rapport de match,Match annulé
+322,,,,,,,,,,,,,,
+323,30,Ven,2020-03-20,20:45,Lille,,,,Monaco,,Stade Pierre-Mauroy,,Rapport de match,Match annulé
+324,30,Sam,2020-03-21,17:30,Rennes,,,,Lyon,,Roazhon Park,,Rapport de match,Match annulé
+325,30,Sam,2020-03-21,20:00,Dijon,,,,Amiens,,Stade Gaston Gérard,,Rapport de match,Match annulé
+326,30,Sam,2020-03-21,20:00,Metz,,,,Brest,,Stade Saint-Symphorien,,Rapport de match,Match annulé
+327,30,Sam,2020-03-21,20:00,Nîmes,,,,Bordeaux,,Stade des Costières,,Rapport de match,Match annulé
+328,30,Sam,2020-03-21,20:00,Angers,,,,Toulouse,,Stade Raymond Kopa,,Rapport de match,Match annulé
+329,30,Sam,2020-03-21,20:00,Nice,,,,Montpellier,,Stade de Nice,,Rapport de match,Match annulé
+330,30,Dim,2020-03-22,15:00,Saint-Étienne,,,,Strasbourg,,Stade Geoffroy-Guichard,,Rapport de match,Match annulé
+331,30,Dim,2020-03-22,17:00,Reims,,,,Nantes,,Stade Auguste-Delaune II,,Rapport de match,Match annulé
+332,30,Dim,2020-03-22,21:00,Marseille,,,,Paris S-G,,Orange Vélodrome,,Rapport de match,Match annulé
+333,,,,,,,,,,,,,,
+334,31,Dim,2020-04-05,,Lyon,,,,Nîmes,,Groupama Stadium,,Rapport de match,Match annulé
+335,31,Dim,2020-04-05,,Paris S-G,,,,Metz,,Parc des Princes,,Rapport de match,Match annulé
+336,31,Sam,2020-04-04,17:30,Montpellier,,,,Lille,,Stade de la Mosson,,Rapport de match,Match annulé
+337,31,Sam,2020-04-04,19:15,Toulouse,,,,Saint-Étienne,,Stadium Municipal,,Rapport de match,Match annulé
+338,31,Dim,2020-04-05,15:00,Monaco,,,,Nantes,,Stade Louis II.,,Rapport de match,Match annulé
+339,31,Dim,2020-04-05,17:00,Strasbourg,,,,Angers,,Stade de la Meinau,,Rapport de match,Match annulé
+340,31,Dim,2020-04-05,17:00,Dijon,,,,Nice,,Stade Gaston Gérard,,Rapport de match,Match annulé
+341,31,Dim,2020-04-05,17:00,Bordeaux,,,,Reims,,Stade Matmut-Atlantique,,Rapport de match,Match annulé
+342,31,Dim,2020-04-05,17:00,Amiens,,,,Rennes,,Stade Crédit Agricole la Licorne,,Rapport de match,Match annulé
+343,31,Dim,2020-04-05,21:00,Brest,,,,Marseille,,Stade Francis-Le Blé,,Rapport de match,Match annulé
+344,,,,,,,,,,,,,,
+345,32,Sam,2020-04-11,,Nîmes,,,,Montpellier,,Stade des Costières,,Rapport de match,Match annulé
+346,32,Sam,2020-04-11,,Reims,,,,Toulouse,,Stade Auguste-Delaune II,,Rapport de match,Match annulé
+347,32,Sam,2020-04-11,,Brest,,,,Monaco,,Stade Francis-Le Blé,,Rapport de match,Match annulé
+348,32,Sam,2020-04-11,,Angers,,,,Paris S-G,,Stade Raymond Kopa,,Rapport de match,Match annulé
+349,32,Sam,2020-04-11,,Nantes,,,,Lyon,,Stade de la Beaujoire - Louis Fonteneau,,Rapport de match,Match annulé
+350,32,Sam,2020-04-11,,Bordeaux,,,,Amiens,,Stade Matmut-Atlantique,,Rapport de match,Match annulé
+351,32,Sam,2020-04-11,,Marseille,,,,Dijon,,Orange Vélodrome,,Rapport de match,Match annulé
+352,32,Sam,2020-04-11,,Saint-Étienne,,,,Rennes,,Stade Geoffroy-Guichard,,Rapport de match,Match annulé
+353,32,Sam,2020-04-11,,Metz,,,,Lille,,Stade Saint-Symphorien,,Rapport de match,Match annulé
+354,32,Sam,2020-04-11,,Nice,,,,Strasbourg,,Stade de Nice,,Rapport de match,Match annulé
+355,,,,,,,,,,,,,,
+356,33,Sam,2020-04-18,,Monaco,,,,Bordeaux,,Stade Louis II.,,Rapport de match,Match annulé
+357,33,Sam,2020-04-18,,Lyon,,,,Marseille,,Groupama Stadium,,Rapport de match,Match annulé
+358,33,Sam,2020-04-18,,Paris S-G,,,,Saint-Étienne,,Parc des Princes,,Rapport de match,Match annulé
+359,33,Sam,2020-04-18,,Toulouse,,,,Nantes,,Stadium Municipal,,Rapport de match,Match annulé
+360,33,Sam,2020-04-18,,Dijon,,,,Angers,,Stade Gaston Gérard,,Rapport de match,Match annulé
+361,33,Sam,2020-04-18,,Strasbourg,,,,Brest,,Stade de la Meinau,,Rapport de match,Match annulé
+362,33,Sam,2020-04-18,,Montpellier,,,,Reims,,Stade de la Mosson,,Rapport de match,Match annulé
+363,33,Sam,2020-04-18,,Lille,,,,Nice,,Stade Pierre-Mauroy,,Rapport de match,Match annulé
+364,33,Sam,2020-04-18,,Amiens,,,,Nîmes,,Stade Crédit Agricole la Licorne,,Rapport de match,Match annulé
+365,33,Sam,2020-04-18,,Rennes,,,,Metz,,Roazhon Park,,Rapport de match,Match annulé
+366,,,,,,,,,,,,,,
+367,34,Dim,2020-04-26,,Rennes,,,,Strasbourg,,Roazhon Park,,Rapport de match,Match annulé
+368,34,Dim,2020-04-26,,Nîmes,,,,Lille,,Stade des Costières,,Rapport de match,Match annulé
+369,34,Dim,2020-04-26,,Nantes,,,,Amiens,,Stade de la Beaujoire - Louis Fonteneau,,Rapport de match,Match annulé
+370,34,Dim,2020-04-26,,Saint-Étienne,,,,Angers,,Stade Geoffroy-Guichard,,Rapport de match,Match annulé
+371,34,Dim,2020-04-26,,Bordeaux,,,,Toulouse,,Stade Matmut-Atlantique,,Rapport de match,Match annulé
+372,34,Dim,2020-04-26,,Brest,,,,Montpellier,,Stade Francis-Le Blé,,Rapport de match,Match annulé
+373,34,Dim,2020-04-26,,Metz,,,,Dijon,,Stade Saint-Symphorien,,Rapport de match,Match annulé
+374,34,Dim,2020-04-26,,Reims,,,,Paris S-G,,Stade Auguste-Delaune II,,Rapport de match,Match annulé
+375,34,Dim,2020-04-26,,Lyon,,,,Monaco,,Groupama Stadium,,Rapport de match,Match annulé
+376,34,Dim,2020-04-26,,Marseille,,,,Nice,,Orange Vélodrome,,Rapport de match,Match annulé
+377,,,,,,,,,,,,,,
+378,35,Sam,2020-05-02,,Angers,,,,Rennes,,Stade Raymond Kopa,,Rapport de match,Match annulé
+379,35,Sam,2020-05-02,,Dijon,,,,Lyon,,Stade Gaston Gérard,,Rapport de match,Match annulé
+380,35,Sam,2020-05-02,,Paris S-G,,,,Brest,,Parc des Princes,,Rapport de match,Match annulé
+381,35,Sam,2020-05-02,,Monaco,,,,Metz,,Stade Louis II.,,Rapport de match,Match annulé
+382,35,Sam,2020-05-02,,Lille,,,,Reims,,Stade Pierre-Mauroy,,Rapport de match,Match annulé
+383,35,Sam,2020-05-02,,Toulouse,,,,Nîmes,,Stadium Municipal,,Rapport de match,Match annulé
+384,35,Sam,2020-05-02,,Nice,,,,Nantes,,Stade de Nice,,Rapport de match,Match annulé
+385,35,Sam,2020-05-02,,Amiens,,,,Saint-Étienne,,Stade Crédit Agricole la Licorne,,Rapport de match,Match annulé
+386,35,Sam,2020-05-02,,Strasbourg,,,,Marseille,,Stade de la Meinau,,Rapport de match,Match annulé
+387,35,Sam,2020-05-02,,Montpellier,,,,Bordeaux,,Stade de la Mosson,,Rapport de match,Match annulé
+388,,,,,,,,,,,,,,
+389,36,Sam,2020-05-09,,Saint-Étienne,,,,Lille,,Stade Geoffroy-Guichard,,Rapport de match,Match annulé
+390,36,Sam,2020-05-09,,Toulouse,,,,Paris S-G,,Stadium Municipal,,Rapport de match,Match annulé
+391,36,Sam,2020-05-09,,Rennes,,,,Dijon,,Roazhon Park,,Rapport de match,Match annulé
+392,36,Sam,2020-05-09,,Nîmes,,,,Strasbourg,,Stade des Costières,,Rapport de match,Match annulé
+393,36,Sam,2020-05-09,,Marseille,,,,Monaco,,Orange Vélodrome,,Rapport de match,Match annulé
+394,36,Sam,2020-05-09,,Lyon,,,,Montpellier,,Groupama Stadium,,Rapport de match,Match annulé
+395,36,Sam,2020-05-09,,Nantes,,,,Brest,,Stade de la Beaujoire - Louis Fonteneau,,Rapport de match,Match annulé
+396,36,Sam,2020-05-09,,Bordeaux,,,,Angers,,Stade Matmut-Atlantique,,Rapport de match,Match annulé
+397,36,Sam,2020-05-09,,Metz,,,,Nice,,Stade Saint-Symphorien,,Rapport de match,Match annulé
+398,36,Sam,2020-05-09,,Reims,,,,Amiens,,Stade Auguste-Delaune II,,Rapport de match,Match annulé
+399,,,,,,,,,,,,,,
+400,37,Sam,2020-05-16,,Nice,,,,Saint-Étienne,,Stade de Nice,,Rapport de match,Match annulé
+401,37,Sam,2020-05-16,,Lille,,,,Amiens,,Stade Pierre-Mauroy,,Rapport de match,Match annulé
+402,37,Sam,2020-05-16,,Strasbourg,,,,Bordeaux,,Stade de la Meinau,,Rapport de match,Match annulé
+403,37,Sam,2020-05-16,,Montpellier,,,,Nantes,,Stade de la Mosson,,Rapport de match,Match annulé
+404,37,Sam,2020-05-16,,Monaco,,,,Toulouse,,Stade Louis II.,,Rapport de match,Match annulé
+405,37,Sam,2020-05-16,,Dijon,,,,Reims,,Stade Gaston Gérard,,Rapport de match,Match annulé
+406,37,Sam,2020-05-16,,Paris S-G,,,,Rennes,,Parc des Princes,,Rapport de match,Match annulé
+407,37,Sam,2020-05-16,,Marseille,,,,Metz,,Orange Vélodrome,,Rapport de match,Match annulé
+408,37,Sam,2020-05-16,,Angers,,,,Lyon,,Stade Raymond Kopa,,Rapport de match,Match annulé
+409,37,Sam,2020-05-16,,Brest,,,,Nîmes,,Stade Francis-Le Blé,,Rapport de match,Match annulé
+410,,,,,,,,,,,,,,
+411,38,Sam,2020-05-23,,Metz,,,,Angers,,Stade Saint-Symphorien,,Rapport de match,Match annulé
+412,38,Sam,2020-05-23,,Reims,,,,Marseille,,Stade Auguste-Delaune II,,Rapport de match,Match annulé
+413,38,Sam,2020-05-23,,Nantes,,,,Strasbourg,,Stade de la Beaujoire - Louis Fonteneau,,Rapport de match,Match annulé
+414,38,Sam,2020-05-23,,Rennes,,,,Monaco,,Roazhon Park,,Rapport de match,Match annulé
+415,38,Sam,2020-05-23,,Toulouse,,,,Montpellier,,Stadium Municipal,,Rapport de match,Match annulé
+416,38,Sam,2020-05-23,,Amiens,,,,Nice,,Stade Crédit Agricole la Licorne,,Rapport de match,Match annulé
+417,38,Sam,2020-05-23,,Lyon,,,,Brest,,Groupama Stadium,,Rapport de match,Match annulé
+418,38,Sam,2020-05-23,,Nîmes,,,,Paris S-G,,Stade des Costières,,Rapport de match,Match annulé
+419,38,Sam,2020-05-23,,Bordeaux,,,,Lille,,Stade Matmut-Atlantique,,Rapport de match,Match annulé
+420,38,Sam,2020-05-23,,Saint-Étienne,,,,Dijon,,Stade Geoffroy-Guichard,,Rapport de match,Match annulé
