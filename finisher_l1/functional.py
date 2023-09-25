@@ -3,7 +3,17 @@ import pandas as pd
 import finisher_l1.leagues as leagues
 
 
-def init_teams(rank_home: pd.DataFrame, rank_away: pd.DataFrame):
+def init_teams(rank_home: pd.DataFrame, rank_away: pd.DataFrame) -> dict[str, leagues.Team]:
+    """
+    function that uses dataframes with the same column name as dataframes in the
+    folder data_df/df_rank_* (from fbref).
+    Args:
+        rank_home (pd.DataFrame): DataFrame that contains information of home ranks
+        rank_away (pd.DataFrame): DataFrame that contains information of away ranks
+    Returns:
+        dict[str, leagues.Team]: Dictionary of Team objects. Keys are team's
+        name
+    """
     list_name_team = rank_home.Équipe.unique()
     dico_team = {}
     for name in list_name_team:
@@ -27,7 +37,17 @@ def init_teams(rank_home: pd.DataFrame, rank_away: pd.DataFrame):
     return dico_team
 
 
-def init_rank(rank_home: pd.DataFrame, rank_away: pd.DataFrame):
+def init_rank(rank_home: pd.DataFrame, rank_away: pd.DataFrame) -> leagues.Rank:
+    """
+    Function that initialize the leagues Rank.
+
+    Args:
+        rank_home (pd.DataFrame): DataFrame that contains information of home ranks
+        rank_away (pd.DataFrame): DataFrame that contains information of away ranks
+
+    Returns:
+        leagues.Rank: Rank object initialized with inputs dataFrames.
+    """
     list_name_team = rank_home.Équipe.unique()
     dico_team = {}
     for name in list_name_team:

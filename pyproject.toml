@@ -21,17 +21,17 @@ mypy = "^1.3.0"
 
 [tool.isort]
 profile = "black"
-line_length = 80
+line_length = 99
 
 [tool.black]
-line-length = 80
+line-length = 99
 target-version = ["py311"]
 
 [tool.mypy]
 ignore_missing_imports = true
 
 [tool.taskipy.tasks]
-lint = "flake8 --max-line-length 80 --extend-ignore=E203 ."
+lint = "flake8 --max-line-length 99 --extend-ignore=E203 ."
 test = "pytest -v"
 type = "mypy ."
 format-isort = "isort ."
